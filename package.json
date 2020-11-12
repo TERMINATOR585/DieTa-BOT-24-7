@@ -1,0 +1,12 @@
+{
+  "name": "reactrolebot",
+  "version": "1.0.0",
+  "description": "Created by TERMINATOR",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "╚═T𝔼ℝ𝕄𝕀ℕ𝔸𝕋𝕆ℝ═╝#1626",
+  "license": "ISC"
+}
